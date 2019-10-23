@@ -1,4 +1,4 @@
-## Shuffled Images
+## Shuffled Images Human intelligence
 
 이 레포지토리는 https://codeforces.com/blog/entry/70047 에 참가하는 신 현(kyaryunha)와 심유근(16silver), 박수현(shiftpsh)의 private repository로, 작업 기간은 2~3일 정도입니다.
 
