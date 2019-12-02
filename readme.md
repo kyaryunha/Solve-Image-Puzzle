@@ -1,4 +1,4 @@
-## Shuffled Images by Human Intelligence
+## Solve Image Puzzle by Human Intelligence
 
 이 레포지토리는 https://codeforces.com/blog/entry/70047 에 참가하는 신 현(kyaryunha)와 심유근(16silver), 박수현(shiftpsh)의 private repository(추후 Public으로 전환)로, 작업 기간은 2~3일 정도입니다.
 
