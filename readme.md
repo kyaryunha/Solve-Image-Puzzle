@@ -26,13 +26,13 @@ AI를 모르므로, 사람의 지능으로 푸는 방식을 택한다.
 
 ###### Problem Image Example 
 
-<img src="/example/example.png" width="300" height="300" align="left">
+<img src="/example/example.png" width="300" height="300" align="left"> &nbsp; <br/>
 
 
 
 ###### Answer Image Example
 
-<img src="/example/example-ans.png" width="300" height="300" align="left">
+<img src="/example/example-ans.png" width="300" height="300" align="left"> &nbsp; <br/>
 
 
 
