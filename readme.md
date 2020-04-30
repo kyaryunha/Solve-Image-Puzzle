@@ -2,8 +2,13 @@
 
 이 레포지토리는 https://codeforces.com/blog/entry/70047 에 참가하는 신 현(kyaryunha)와 심유근(16silver), 박수현(shiftpsh)의 private repository(추후 Public으로 전환)로, 작업 기간은 2~3일 정도입니다.
 
+
 ### Goal
 k x k의 이미지 퍼즐이 있을 때, ( k = 8, 16, 32 ) 그 퍼즐을 재배치하는 수열을 생성합니다.
+AI를 모르므로, 사람의 지능으로 푸는 방식을 택했습니다. 
+
+### Development
+- Python, OpenCV
 
 ### How to?
 - 먼저 kyaryunha64.py, kyaryunha32.py, kyaryunha 16.py (각각 8, 16, 32에 대응)는 랜덤의 점수를 받기 위해, 랜덤의 수열을 생성하여 파일입출력으로 test1_64.txt, test1_32.txt, test1_16.txt에 저장합니다.
