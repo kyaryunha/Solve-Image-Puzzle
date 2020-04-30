@@ -1,17 +1,17 @@
-## Solve Image Puzzle by Human Intelligence
+# Solve Image Puzzle by Human Intelligence
 
 이 레포지토리는 https://codeforces.com/blog/entry/70047 에 참가하는 신 현(kyaryunha)와 심유근(16silver), 박수현(shiftpsh)의 private repository(추후 Public으로 전환)로, 작업 기간은 2~3일 정도다.
 
 
 
-### Development Skill
+## Development Skill
 
 - Python, OpenCV
 
 
 
 
-### Goal
+## Goal
 k x k의 이미지 퍼즐이 있을 때, ( k = 8, 16, 32 ), 해당 퍼즐을 재배치하는 수열을 생성한다.
 
 AI를 모르므로, 사람의 지능으로 푸는 방식을 택한다.
@@ -24,19 +24,19 @@ AI를 모르므로, 사람의 지능으로 푸는 방식을 택한다.
 
 
 
-###### Problem Image Example 
+#### Problem Image Example 
 
-<img src="/example/example.png" width="300" height="300" align="left"> 
-
-
+<img src="/example/example.png" width="300" height="300" > 
 
 
 
 
 
-###### Answer Image Example
 
-<img src="/example/example-ans.png" width="300" height="300" align="left"> 
+
+#### Answer Image Example
+
+<img src="/example/example-ans.png" width="300" height="300" > 
 
 
 
@@ -50,7 +50,7 @@ AI를 모르므로, 사람의 지능으로 푸는 방식을 택한다.
 
 
 
-### How to?
+## How to?
 - random64.py, random32.py, random16.py (각각 8, 16, 32에 대응)
 
   - 랜덤의 점수를 받기 위해, 랜덤의 수열을 생성하여 파일입출력으로 test1_64.txt, test1_32.txt, test1_16.txt에 저장합
@@ -73,7 +73,7 @@ AI를 모르므로, 사람의 지능으로 푸는 방식을 택한다.
   
   
 
-### List
+## List
 현재 파일 목록은 다음과 같다
 
 - random64.py : A번 문제에 대해서 랜덤 수열 생성해서, test1_64에 저장
